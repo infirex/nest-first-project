@@ -1,0 +1,10 @@
+# Tüm metin dosyaları LF olarak tutulur
+* text=auto eol=lf
+
+# İkili dosyalar (bunlara dokunma)
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.pdf binary
